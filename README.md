@@ -9,8 +9,12 @@ In this course, I learn how to build a RESTful API using Laravel. I'm also learn
 1. Class 2: what It's and API
     * RESTful API definition
 
-2. Class 3:
+2. Class 3, 4: Setting the project structure
     * Laravel installation and project setup
+    * Creating a web interface to access the project
+
+3. Class ...: 
+    * ...
 
 ## Conclusion
 
