@@ -13,7 +13,10 @@ In this course, I learn how to build a RESTful API using Laravel. I'm also learn
     * Laravel installation and project setup
     * Creating a web interface to access the project
 
-3. Class ...: 
+3. Class 5: Adding some style 
+    * Using tailwindcss to add some style to the web interface
+
+4. Class ...: 
     * ...
 
 ## Conclusion
