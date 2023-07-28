@@ -25,7 +25,10 @@ In this course, I learn how to build a RESTful API using Laravel. I'm also learn
     * php artisan make:resource {API's name and folder}
     * return new {resource name}
 
-5. Class : ... 
+6. Class 9: Collection 
+    * Creating a API's response for posts collections
+
+7. Class : ... 
     * ...
 
 ## Conclusion
