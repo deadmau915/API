@@ -20,7 +20,12 @@ In this course, I learn how to build a RESTful API using Laravel. I'm also learn
     * php artisan make:controller {API's name and folder ubication} --api --model={ existing API's model}
     * then go to Routes and create the route
 
-5. Class ...: 
+5. Class 8: Resources 
+    * Setting structure to the API's response
+    * php artisan make:resource {API's name and folder}
+    * return new {resource name}
+
+5. Class : ... 
     * ...
 
 ## Conclusion
