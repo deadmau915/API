@@ -28,9 +28,10 @@ In this course, I learn how to build a RESTful API using Laravel. I'm also learn
 6. Class 9: Collection 
     * Creating a API's response for posts collections
 
-7. Class 11, 12: API V2 
+7. Class 11, 12, 13: API V2 
     * API's V2 setup
     * creating response for asking a sigle post
+    * creating response for post collection
 
 7. Class : ... 
     * ...
