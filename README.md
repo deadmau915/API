@@ -33,7 +33,11 @@ In this course, I learn how to build a RESTful API using Laravel. I'm also learn
     * creating response for asking a sigle post
     * creating response for post collection
 
-7. Class : ... 
+8. Class 14: Private API
+    * Protecting access to API (Using Laravel sanctum)
+    * ->Midleware('auth:sanctum')
+
+9. Class : ... 
     * ...
 
 ## Conclusion
