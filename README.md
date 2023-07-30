@@ -42,12 +42,10 @@ In this course, I learn how to build a RESTful API using Laravel. I'm also learn
     * php artisan make:controller Api\LoginController
     * finishing the auth generating tokens for the user
 
-11. Class : ... 
-    * ...
-
-10. Class : ... 
-    * ...
+11. Class 17: Postman 
+    * basic ussage of postman
+    * set on headers: key->Accept, Value->application/json (to work on API)
 
 ## Conclusion
 
-We are not here yet!!
+In this course, I learned how to build a RESTful API and how to use Sanctum to protect its access. I also gained an understanding of what an endpoint is and how to use Postman to test my API.
