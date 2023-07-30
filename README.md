@@ -37,9 +37,13 @@ In this course, I learn how to build a RESTful API using Laravel. I'm also learn
     * Protecting access to API (Using Laravel sanctum)
     * ->Midleware('auth:sanctum')
 
-9. Class 15: Authentication 
+9. Class 15, 16: Authentication 
     * seting up the login
     * php artisan make:controller Api\LoginController
+    * finishing the auth generating tokens for the user
+
+11. Class : ... 
+    * ...
 
 10. Class : ... 
     * ...
